@@ -1,1 +1,2 @@
-{"name":"is-this-chee-ho"}
+{"name":"is-this-chee-ho"  "regions": ["all"],
+"routes": [{ "src": "/check", "dest": "/api/face.js" }]}
